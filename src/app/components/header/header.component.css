@@ -1,0 +1,206 @@
+.nav {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.nav .div {
+    background-color: #ffffff;
+    width: 1920px;
+    height: 90px;
+    position: relative;
+}
+
+.nav .div-2 {
+    display: flex;
+    width: 1469px;
+    align-items: center;
+    justify-content: center;
+    gap: 21px;
+    position: absolute;
+    top: 0;
+    left: 451px;
+}
+
+.nav .container {
+    position: relative;
+    width: 107.2px;
+    height: 90px;
+}
+
+.nav .line {
+    position: absolute;
+    width: 99px;
+    height: 3px;
+    top: 58px;
+    left: 4px;
+}
+
+.nav .link-shop {
+    position: absolute;
+    width: 108px;
+    height: 24px;
+    top: 30px;
+    left: 0;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ff578b;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.nav .link-mach-party-wrapper {
+    position: relative;
+    width: 164.5px;
+    height: 90px;
+}
+
+.nav .text-wrapper {
+    position: absolute;
+    width: 101px;
+    height: 24px;
+    top: 30px;
+    left: 32px;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #231f20;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.nav .link-join-us-wrapper {
+    position: relative;
+    width: 123.02px;
+    height: 90px;
+}
+
+.nav .link-join-us {
+    position: absolute;
+    width: 100px;
+    height: 24px;
+    top: 30px;
+    left: 12px;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #231f20;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    text-decoration: underline;
+    white-space: nowrap;
+}
+
+.nav .link-genusswelt-wrapper {
+    position: relative;
+    align-self: stretch;
+    width: 164.63px;
+}
+
+.nav .link-magazin-wrapper {
+    position: relative;
+    width: 132.99px;
+    height: 90px;
+}
+
+.nav .link-magazin {
+    position: absolute;
+    width: 133px;
+    height: 24px;
+    top: 30px;
+    left: 0;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #231f20;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.nav .link-inspiration-wrapper {
+    position: relative;
+    width: 159.11px;
+    height: 90px;
+}
+
+.nav .link-inspiration {
+    position: absolute;
+    width: 141px;
+    height: 24px;
+    top: 30px;
+    left: 9px;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #231f20;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.nav .div-wrapper {
+    position: relative;
+    width: 105px;
+    height: 90px;
+}
+
+.nav .link-inspiration-2 {
+    position: absolute;
+    width: 69px;
+    height: 24px;
+    top: 30px;
+    left: 17px;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #231f20;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.nav .link {
+    position: relative;
+    width: 188px;
+    height: 38px;
+    background-color: #ff578b;
+    border-radius: 50px;
+    overflow: hidden;
+    box-shadow: 0px 2px 20px #231f2033;
+}
+
+.nav .text-wrapper-2 {
+    position: absolute;
+    width: 174px;
+    height: 24px;
+    top: 6px;
+    left: 7px;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.nav .link-SVG {
+    position: absolute;
+    width: 181px;
+    height: 30px;
+    top: 30px;
+    left: 49px;
+}

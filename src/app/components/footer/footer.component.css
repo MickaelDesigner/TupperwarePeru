@@ -1,0 +1,966 @@
+/*STYLE NEWSLETTER*/
+.newsletter {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.newsletter .container-wrapper {
+    background-color: #ffffff;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-color: #f7f7f7;
+    width: 1920px;
+    height: 555.04px;
+}
+
+.newsletter .container {
+    position: relative;
+    width: 1600px;
+    height: 554px;
+    top: 1px;
+    left: 160px;
+}
+
+.newsletter .overlap-group {
+    position: absolute;
+    width: 1527px;
+    height: 112px;
+    top: 95px;
+    left: 0;
+}
+
+.newsletter .text-wrapper {
+    position: absolute;
+    width: 602px;
+    height: 46px;
+    top: 0;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 600;
+    color: #231f20;
+    font-size: 39px;
+    letter-spacing: 0;
+    line-height: 3px;
+    white-space: nowrap;
+}
+
+.newsletter .matricularse-en {
+    position: absolute;
+    width: 1527px;
+    height: 66px;
+    top: 46px;
+    left: 0;
+    font-family: "Earl Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #808080;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.newsletter .icon {
+    left: 0;
+    position: absolute;
+    width: 32px;
+    height: 35px;
+    top: 268px;
+}
+
+.newsletter .receta-del-ahorro-de {
+    position: absolute;
+    width: 203px;
+    height: 131px;
+    top: 268px;
+    left: 56px;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.newsletter .span {
+    font-weight: 700;
+    color: #231f20;
+}
+
+.newsletter .text-wrapper-2 {
+    font-family: "Earl Sans-Regular", Helvetica;
+    color: #808080;
+}
+
+.newsletter .img {
+    left: 296px;
+    position: absolute;
+    width: 32px;
+    height: 35px;
+    top: 268px;
+}
+
+.newsletter .estilo-de-vida {
+    position: absolute;
+    width: 190px;
+    height: 69px;
+    top: 270px;
+    left: 352px;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.newsletter .icon-2 {
+    left: 592px;
+    position: absolute;
+    width: 32px;
+    height: 35px;
+    top: 268px;
+}
+
+.newsletter .acciones-y-ofertas {
+    position: absolute;
+    width: 229px;
+    height: 123px;
+    top: 270px;
+    left: 648px;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.newsletter .form {
+    position: absolute;
+    width: 655px;
+    height: 199px;
+    top: 259px;
+    left: 945px;
+}
+
+.newsletter .input {
+    position: absolute;
+    width: 386px;
+    height: 50px;
+    top: 0;
+    left: 0;
+    background-color: #f7f7f7;
+    border-radius: 25px 0px 0px 25px;
+    border: 1px solid;
+    border-color: #dfdfdf;
+}
+
+.newsletter .div-wrapper {
+    position: relative;
+    width: 309px;
+    height: 19px;
+    top: 16px;
+    left: 26px;
+    opacity: 0.7;
+}
+
+.newsletter .div {
+    position: absolute;
+    width: 218px;
+    height: 19px;
+    top: -1px;
+    left: 0;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #808080;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.newsletter .button {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 269px;
+    height: 50px;
+    top: 0;
+    left: 386px;
+    background-color: #1eb5da;
+    border-radius: 0px 25px 25px 0px;
+    overflow: hidden;
+    border: 2px solid;
+}
+
+.newsletter .text-wrapper-3 {
+    position: absolute;
+    width: 174px;
+    height: 24px;
+    top: 11px;
+    left: 48px;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.newsletter .label {
+    position: absolute;
+    width: 635px;
+    height: 126px;
+    top: 73px;
+    left: 20px;
+}
+
+.newsletter .background-border {
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    top: 0;
+    left: 0;
+    background-color: #f7f7f7;
+    border: 1px solid;
+    border-color: #dfdfdf;
+}
+
+.newsletter .espero-con-ansias-el {
+    position: absolute;
+    width: 588px;
+    height: 126px;
+    top: -1px;
+    left: 35px;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+}
+
+.newsletter .text-wrapper-4 {
+    font-weight: 700;
+    color: #808080;
+}
+
+.newsletter .text-wrapper-5 {
+    font-family: "Earl Sans-Regular", Helvetica;
+    color: #1eb5da;
+}
+
+
+/*STYLE PAGO SEGURO*/
+
+.pago-seguro {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.pago-seguro .container-wrapper {
+    background-color: #ffffff;
+    width: 1920px;
+    height: 174px;
+}
+
+.pago-seguro .container {
+    position: relative;
+    width: 1600px;
+    height: 94px;
+    top: 40px;
+    left: 160px;
+}
+
+.pago-seguro .master-card {
+    position: absolute;
+    width: 61px;
+    height: 36px;
+    top: 29px;
+    left: 0;
+    border-radius: 2.88px;
+    box-shadow: 3px 3px 10px #0000000d;
+    background-image: url(/TupperAngular/src/assets/img/mastercard@2x.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.pago-seguro .VISA {
+    position: absolute;
+    width: 61px;
+    height: 36px;
+    top: 29px;
+    left: 69px;
+    border-radius: 2.88px;
+    box-shadow: 3px 3px 10px #0000000d;
+    background-image: url(/TupperAngular/src/assets/img/visa@2x.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.pago-seguro .paypal {
+    position: absolute;
+    width: 61px;
+    height: 36px;
+    top: 29px;
+    left: 138px;
+    border-radius: 2.88px;
+    box-shadow: 3px 3px 10px #0000000d;
+    background-image: url(/TupperAngular/src/assets/img/dhl@2x.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.pago-seguro .klarna {
+    position: absolute;
+    width: 61px;
+    height: 36px;
+    top: 29px;
+    left: 206px;
+    border-radius: 2.88px;
+    box-shadow: 3px 3px 10px #0000000d;
+    background-image: url(/TupperAngular/src/assets/img/klarna@2x.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.pago-seguro .vertical-border {
+    position: absolute;
+    width: 557px;
+    height: 94px;
+    top: 0;
+    left: 275px;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-color: #dfdfdf;
+}
+
+.pago-seguro .DHL {
+    position: relative;
+    width: 61px;
+    height: 36px;
+    top: 29px;
+    left: 41px;
+    border-radius: 2.88px;
+    box-shadow: 3px 3px 10px #0000000d;
+    background-image: url(/TupperAngular/src/assets/img/dhl@2x.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.pago-seguro .list-wrapper {
+    position: absolute;
+    width: 760px;
+    height: 94px;
+    top: 0;
+    left: 840px;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-color: #dfdfdf;
+}
+
+.pago-seguro .list {
+    position: relative;
+    width: 625px;
+    height: 72px;
+    top: 11px;
+    left: 135px;
+}
+
+.pago-seguro .item {
+    position: absolute;
+    width: 200px;
+    height: 72px;
+    top: 0;
+    left: -75px;
+}
+
+.pago-seguro .icon {
+    position: absolute;
+    width: 22px;
+    height: 24px;
+    top: 22px;
+    left: 0;
+}
+
+.pago-seguro .text-wrapper {
+    position: absolute;
+    width: 155px;
+    height: 24px;
+    top: 23px;
+    left: 46px;
+    font-family: "Earl Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #808080;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.pago-seguro .div {
+    width: 230px;
+    left: 158px;
+    position: absolute;
+    height: 72px;
+    top: 0;
+}
+
+.pago-seguro .text-wrapper-2 {
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    top: 23px;
+    left: 45px;
+    font-family: "Earl Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #808080;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.pago-seguro .item-2 {
+    width: 208px;
+    left: 417px;
+    position: absolute;
+    height: 72px;
+    top: 0;
+}
+
+.pago-seguro .p {
+    position: absolute;
+    width: 136px;
+    height: 72px;
+    top: -1px;
+    left: 46px;
+    font-family: "Earl Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #808080;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+/*STYLE FOOTER*/
+
+.footer {
+    background-color: #7bd6dc;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.footer .div {
+    background-color: #7bd6dc;
+    width: 1920px;
+    height: 503px;
+    position: relative;
+}
+
+.footer .container {
+    height: 382px;
+    top: 0;
+    position: absolute;
+    width: 1600px;
+    left: 160px;
+}
+
+.footer .tupperware-devider {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 40px;
+    left: 0;
+}
+
+.footer .link {
+    position: absolute;
+    width: 172px;
+    height: 21px;
+    top: 40px;
+    left: 410px;
+}
+
+.footer .text-wrapper {
+    position: absolute;
+    width: 86px;
+    height: 21px;
+    top: -1px;
+    left: 0;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .overlap-group {
+    position: absolute;
+    width: 172px;
+    height: 59px;
+    top: 71px;
+    left: 410px;
+}
+
+.footer .div-wrapper {
+    position: absolute;
+    width: 172px;
+    height: 29px;
+    top: 0;
+    left: 0;
+}
+
+.footer .text-wrapper-2 {
+    position: absolute;
+    width: 119px;
+    height: 21px;
+    top: 3px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .link-2 {
+    position: absolute;
+    width: 172px;
+    height: 29px;
+    top: 29px;
+    left: 0;
+}
+
+.footer .link-3 {
+    position: absolute;
+    width: 177px;
+    height: 21px;
+    top: 40px;
+    left: 622px;
+}
+
+.footer .text-wrapper-3 {
+    position: absolute;
+    width: 88px;
+    height: 21px;
+    top: -1px;
+    left: 0;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .link-4 {
+    position: absolute;
+    width: 177px;
+    height: 50px;
+    top: 71px;
+    left: 622px;
+}
+
+.footer .text-wrapper-4 {
+    position: absolute;
+    width: 124px;
+    height: 42px;
+    top: 3px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+}
+
+.footer .link-5 {
+    position: absolute;
+    width: 292px;
+    height: 21px;
+    top: 40px;
+    left: 839px;
+}
+
+.footer .text-wrapper-5 {
+    position: absolute;
+    width: 191px;
+    height: 21px;
+    top: -1px;
+    left: 0;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .link-6 {
+    position: absolute;
+    width: 292px;
+    height: 50px;
+    top: 71px;
+    left: 839px;
+}
+
+.footer .p {
+    position: absolute;
+    width: 256px;
+    height: 42px;
+    top: 3px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+}
+
+.footer .link-7 {
+    position: absolute;
+    width: 226px;
+    height: 21px;
+    top: 40px;
+    left: 1172px;
+}
+
+.footer .text-wrapper-6 {
+    position: absolute;
+    width: 181px;
+    height: 21px;
+    top: -1px;
+    left: 0;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .link-8 {
+    position: absolute;
+    width: 226px;
+    height: 29px;
+    top: 71px;
+    left: 1172px;
+}
+
+.footer .text-wrapper-7 {
+    position: absolute;
+    width: 138px;
+    height: 21px;
+    top: 3px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .link-9 {
+    position: absolute;
+    width: 226px;
+    height: 29px;
+    top: 100px;
+    left: 1172px;
+}
+
+.footer .text-wrapper-8 {
+    position: absolute;
+    width: 192px;
+    height: 21px;
+    top: 3px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .link-10 {
+    position: absolute;
+    width: 226px;
+    height: 29px;
+    top: 130px;
+    left: 1172px;
+}
+
+.footer .text-wrapper-9 {
+    position: absolute;
+    width: 60px;
+    height: 21px;
+    top: 3px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .link-11 {
+    position: absolute;
+    width: 226px;
+    height: 29px;
+    top: 159px;
+    left: 1172px;
+}
+
+.footer .text-wrapper-10 {
+    position: absolute;
+    width: 104px;
+    height: 21px;
+    top: 3px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .link-12 {
+    position: absolute;
+    width: 226px;
+    height: 50px;
+    top: 188px;
+    left: 1172px;
+}
+
+.footer .text-wrapper-11 {
+    position: absolute;
+    width: 188px;
+    height: 42px;
+    top: 3px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+}
+
+.footer .link-13 {
+    position: absolute;
+    width: 226px;
+    height: 29px;
+    top: 239px;
+    left: 1172px;
+}
+
+.footer .text-wrapper-12 {
+    position: absolute;
+    width: 225px;
+    height: 21px;
+    top: 3px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .link-14 {
+    position: absolute;
+    width: 163px;
+    height: 21px;
+    top: 40px;
+    left: 1437px;
+}
+
+.footer .text-wrapper-13 {
+    position: absolute;
+    width: 174px;
+    height: 21px;
+    top: -1px;
+    left: 0;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .link-15 {
+    position: absolute;
+    width: 163px;
+    height: 29px;
+    top: 71px;
+    left: 1437px;
+}
+
+.footer .text-wrapper-14 {
+    position: absolute;
+    width: 113px;
+    height: 21px;
+    top: 3px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .link-16 {
+    position: absolute;
+    width: 163px;
+    height: 29px;
+    top: 100px;
+    left: 1437px;
+}
+
+.footer .text-wrapper-15 {
+    position: absolute;
+    width: 163px;
+    height: 21px;
+    top: 3px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .link-17 {
+    position: absolute;
+    width: 163px;
+    height: 29px;
+    top: 130px;
+    left: 1437px;
+}
+
+.footer .text-wrapper-16 {
+    position: absolute;
+    width: 116px;
+    height: 21px;
+    top: 3px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.footer .SVG {
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    top: 308px;
+    left: 0;
+}
+
+.footer .img {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 309px;
+    left: 1376px;
+}
+
+.footer .link-18 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 309px;
+    left: 1424px;
+}
+
+.footer .link-19 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 309px;
+    left: 1472px;
+}
+
+.footer .link-20 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 309px;
+    left: 1520px;
+}
+
+.footer .link-21 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 309px;
+    left: 1568px;
+}
+
+.footer .horizontal-border-wrapper {
+    height: 121px;
+    top: 382px;
+    position: absolute;
+    width: 1600px;
+    left: 160px;
+}
+
+.footer .horizontal-border {
+    position: relative;
+    height: 121px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-color: #00524f66;
+}
+
+.footer .text-wrapper-17 {
+    position: absolute;
+    width: 1127px;
+    height: 42px;
+    top: 39px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #00524f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+}

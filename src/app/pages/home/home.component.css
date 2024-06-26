@@ -1,0 +1,335 @@
+/*STYLE SLIDERS*/
+
+.section {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.section .overlap-group-wrapper {
+    width: 1920px;
+    height: 680px;
+}
+
+.section .overlap-group {
+    position: relative;
+    height: 680px;
+}
+
+.section .container {
+    position: absolute;
+    width: 1920px;
+    height: 680px;
+    top: 0;
+    left: 0;
+}
+
+.section .background {
+    position: absolute;
+    width: 800px;
+    height: 680px;
+    top: 0;
+    left: 0;
+    background-color: #ff578b;
+}
+
+.section .div {
+    position: relative;
+    width: 720px;
+    height: 680px;
+    left: 40px;
+}
+
+.section .heading-der-sommer {
+    position: absolute;
+    width: 552px;
+    height: 56px;
+    top: 239px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #ffffff;
+    font-size: 52px;
+    letter-spacing: 0;
+    line-height: 56.2px;
+    white-space: nowrap;
+}
+
+.section .text-wrapper {
+    position: absolute;
+    width: 234px;
+    height: 27px;
+    top: 312px;
+    left: 0;
+    font-family: "Earl Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+
+.section .link {
+    position: absolute;
+    width: 188px;
+    height: 38px;
+    top: 375px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 50px;
+    overflow: hidden;
+    box-shadow: 0px 2px 20px #231f2033;
+}
+
+.section .text-wrapper-2 {
+    position: absolute;
+    width: 138px;
+    height: 24px;
+    top: 6px;
+    left: 25px;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #231f20;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.section .tupperware-header {
+    position: absolute;
+    width: 1120px;
+    height: 680px;
+    top: 0;
+    left: 800px;
+    background-image: url(./img/landing1.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.section .button-go-to-slide {
+    left: 0;
+    background-color: #ffffff66;
+    position: absolute;
+    width: 76px;
+    height: 6px;
+    top: 0;
+}
+
+.section .button-go-to-slide-2 {
+    left: 80px;
+    background-color: #ffffff66;
+    position: absolute;
+    width: 76px;
+    height: 6px;
+    top: 0;
+}
+
+.section .button-go-to-slide-3 {
+    left: 161px;
+    background-color: #ffffff66;
+    position: absolute;
+    width: 76px;
+    height: 6px;
+    top: 0;
+}
+
+.section .button-go-to-slide-4 {
+    left: 241px;
+    background-color: #ffffff66;
+    position: absolute;
+    width: 76px;
+    height: 6px;
+    top: 0;
+}
+
+.section .button-go-to-slide-5 {
+    left: 322px;
+    background-color: #ffffff66;
+    position: absolute;
+    width: 76px;
+    height: 6px;
+    top: 0;
+}
+
+.section .button-go-to-slide-6 {
+    left: 402px;
+    background-color: #ffffff66;
+    position: absolute;
+    width: 76px;
+    height: 6px;
+    top: 0;
+}
+
+.section .button-go-to-slide-7 {
+    left: 482px;
+    background-color: #ffffff66;
+    position: absolute;
+    width: 76px;
+    height: 6px;
+    top: 0;
+}
+
+.section .button-go-to-slide-8 {
+    left: 563px;
+    background-color: #ffffff;
+    position: absolute;
+    width: 76px;
+    height: 6px;
+    top: 0;
+}
+
+.section .button-go-to-slide-9 {
+    left: 643px;
+    background-color: #ffffff66;
+    position: absolute;
+    width: 76px;
+    height: 6px;
+    top: 0;
+}
+
+.section .button-go-to-slide-10 {
+    left: 724px;
+    background-color: #ffffff66;
+    position: absolute;
+    width: 76px;
+    height: 6px;
+    top: 0;
+}
+
+.section .icon {
+    left: 40px;
+    position: absolute;
+    width: 22px;
+    height: 24px;
+    top: 627px;
+}
+
+.section .img {
+    left: 725px;
+    position: absolute;
+    width: 22px;
+    height: 24px;
+    top: 627px;
+}
+
+/*STYLE STYLE*/
+
+.banner-estilo {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.banner-estilo .div {
+    background-color: #ffffff;
+    width: 1920px;
+    height: 1014px;
+    position: relative;
+}
+
+.banner-estilo .img-estilo {
+    position: absolute;
+    width: 920px;
+    height: 644px;
+    top: 185px;
+    left: 80px;
+    background-image: url(./img/image@2x.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
+.banner-estilo .container-estilo {
+    position: absolute;
+    width: 742px;
+    height: 644px;
+    top: 185px;
+    left: 1098px;
+}
+
+.banner-estilo .titulo-estilo {
+    position: absolute;
+    width: 484px;
+    height: 27px;
+    top: 75px;
+    left: 129px;
+}
+
+.banner-estilo .text-wrapper {
+    position: absolute;
+    width: 261px;
+    height: 24px;
+    top: 2px;
+    left: 0;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #231f20;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 23.4px;
+    white-space: nowrap;
+}
+
+.banner-estilo .descripcion-estilo {
+    position: absolute;
+    width: 484px;
+    height: 416px;
+    top: 107px;
+    left: 129px;
+}
+
+.banner-estilo .equipamiento-con {
+    position: absolute;
+    width: 531px;
+    height: 381px;
+    top: -1px;
+    left: 0;
+    font-family: "Earl Sans-Thin", Helvetica;
+    font-weight: 100;
+    color: #231f20;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: 46.8px;
+}
+
+.banner-estilo .boton {
+    position: absolute;
+    width: 230px;
+    height: 45px;
+    top: 524px;
+    left: 129px;
+    background-color: #1eb5da;
+    border-radius: 50px;
+    overflow: hidden;
+    border: 2px solid;
+}
+
+.banner-estilo .container {
+    position: relative;
+    width: 138px;
+    height: 30px;
+    top: 8px;
+    left: 46px;
+}
+
+.banner-estilo .text-wrapper-2 {
+    position: absolute;
+    width: 138px;
+    height: 24px;
+    top: 2px;
+    left: 0;
+    font-family: "Earl Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
